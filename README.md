@@ -1,0 +1,3 @@
+# RebindUdpSocketExample
+
+Пример использования QUdpSocket 
